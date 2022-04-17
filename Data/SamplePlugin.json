@@ -1,10 +1,10 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
   "ApplicableVersion": "any",
+  "Author": "Big Nuko",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "craftingList",
+  "Name": "Momo's Crafting List'",
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
   "Tags": [
     "sample",
     "plugin",
